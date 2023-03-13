@@ -8,6 +8,11 @@ const product = 8 * 10;
 // Divide One Number by Another with JavaScript
 const quotient = 66 /33;
 
-let myVar = 87;
-// Increment a Number with JavaScript
-myVar++; 
+// let myVar = 87;
+// // Increment a Number with JavaScript
+// myVar++; 
+
+let myVar = 11;
+// Decrement a Number with JavaScript
+myVar--;
+
