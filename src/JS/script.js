@@ -15,4 +15,6 @@ const quotient = 66 /33;
 let myVar = 11;
 // Decrement a Number with JavaScript
 myVar--;
+// Create Decimal Numbers with JavaScript
+const myDecimal=6.7;
 
